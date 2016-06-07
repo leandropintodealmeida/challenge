@@ -3,11 +3,12 @@ This is an implementation challenge Fibonacci formula in nine different programm
 
 ## Instructions
 
-1. Clone the project;
+1. Fork the project
 
-2. Create a folder structure with your name in the root folder and the name of the language in other folders;
+2. Create a folder structure with your username in the root folder and the name of the language and challenge
+`allanvianadm/ruby/fibonacci.rb`
 
-3. Your challenge is to implement the Fibonacci formula in the nine programming languages below:
+3. Your challenge is to implement the challenge programming languages below:
 
 * [ ] Clojure
 * [ ] Dart
