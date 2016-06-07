@@ -1,7 +1,7 @@
 # Challenge
 This is an implementation challenge in differents programming languages.
 
-## Challenges
+## Challenge list
 
 1. [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)
 
