@@ -4,7 +4,6 @@ import (
     "os"
     "fmt"
     "strconv"
-    "reflect"
 )   
 
 func main() {
@@ -18,10 +17,15 @@ func main() {
             return
         }
 
-        f, l := 0
-        for i := 0; i < int(n); i++ {
-            
+        a := 0
+        b := 1
+        r := 0
+        for i := 1; i < int(n); i++ {
+            r = a + b
+            a = b
+            b = r
         }
+        fmt.Println(r)
         return
     }
     fmt.Println("Passe algum parâmetro para Fibonacci")
