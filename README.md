@@ -16,10 +16,13 @@ This is an implementation challenge in differents programming languages.
 
 * [ ] Clojure
 * [ ] Dart
+* [ ] Elixir
+* [ ] Erlang
 * [ ] Go
 * [ ] Haskell
 * [ ] Julia
 * [ ] OCaml
 * [ ] Python
 * [ ] Ruby
+* [ ] Rust
 * [ ] Smaltalk
