@@ -10,7 +10,9 @@ This is an implementation challenge in differents programming languages.
 1. Fork the project
 
 2. Create a folder structure with your username in the root folder and the name of the language and challenge
-`usernamegithub/programminglanguage/fibonacci.rb`
+`usernamegithub/programminglanguage/fibonacci.extension`
+
+  Example: `gvanrossum/python/fibonacci.py`
 
 3. Your challenge is to implement the challenge programming languages below:
 
